@@ -1,5 +1,6 @@
 # SafeTogether – Female-Friendly Safety Platform
-https://safe-together-guardian.lovable.app
+## URL:https://safe-together-guardian.lovable.app
+
 A web-based personal safety application designed to enhance women’s security through real-time location sharing, emergency alerts, and trusted contact management. Built as a full-stack MVP focusing on usability, responsiveness, and safety-first UX design.
 
 ---
