@@ -40,7 +40,7 @@ This project was rebuilt as a full MVP after GitHub repository loss, focusing on
 * Report unsafe incidents with description and location
 * Helps build awareness of risky areas
 
-### 🗺 Map Integration (MVP / Mock-supported)
+###  Map Integration (MVP / Mock-supported)
 
 * Displays user location
 * Shows reported incidents (mock or dynamic data ready)
@@ -57,11 +57,3 @@ This project was rebuilt as a full MVP after GitHub repository loss, focusing on
 
 ---
 
-
-
-
-If you want, I can also help you next step:
-
-✅ turn this into a **GitHub pinned project README with badges**
-✅ or make a **resume bullet point version (ATS optimized)**
-✅ or rewrite it to sound like a **high-end internship AI project (more impressive wording)**
