@@ -88,6 +88,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "SafeTogether — Female Friendly Safety App" },
+      { name: "description", content: "Safe Haven App provides women with a safety platform for emergencies and incident reporting." },
+      { property: "og:description", content: "Safe Haven App provides women with a safety platform for emergencies and incident reporting." },
+      { name: "twitter:description", content: "Safe Haven App provides women with a safety platform for emergencies and incident reporting." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/447d02a4-2820-4c9f-ad7e-503b84345b67/id-preview-4d1a2d4f--d29942c9-97df-4403-886d-7fcd9c63a14f.lovable.app-1783005837682.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/447d02a4-2820-4c9f-ad7e-503b84345b67/id-preview-4d1a2d4f--d29942c9-97df-4403-886d-7fcd9c63a14f.lovable.app-1783005837682.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
